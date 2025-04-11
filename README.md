@@ -1,9 +1,5 @@
-﻿# Online-Crime-Reporting-System-Using-Facial-Recognition
 # Online Crime Reporting System using Face Recognition
 
-## 👩‍💻 Project by:
-**VINITHA D**  
-**Roll No:** 212222230175  
 
 ---
 
@@ -81,6 +77,10 @@ The architecture includes:
 
 ---
 
+## Output
+
+![image](https://github.com/user-attachments/assets/648a575c-0c89-4f70-a513-f12dfbf0e21b)
+
 ## ✅ Results
 
 - Efficient and intuitive interface
@@ -111,8 +111,8 @@ The architecture includes:
 
 ## 📬 Contact
 
-For more information, contact **Sakthi Murugeswari S**  
-📧 Email: [your.email@example.com]
+For more information, contact **VInitha D**  
+📧 Email: [vinithadanajeyan@gmail.com]
 
 ---
 
