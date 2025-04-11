@@ -1,0 +1,5 @@
+streamlit
+streamlit_authenticator
+plotly
+dotenv
+deta
