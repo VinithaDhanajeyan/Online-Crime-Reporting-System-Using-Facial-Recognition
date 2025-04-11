@@ -78,7 +78,11 @@ The architecture includes:
 ---
 
 ## Output
-
+![image](https://github.com/user-attachments/assets/51caea64-46b0-4009-9c05-4d636ed8bd6f)
+![image](https://github.com/user-attachments/assets/ff0dde2e-452d-4df5-a553-59b6ff989e43)
+![image](https://github.com/user-attachments/assets/f5620d47-751c-4aca-85ba-bab08211b198)
+![image](https://github.com/user-attachments/assets/c9ee4fac-cc51-4b5d-8ade-7eae89f0bf85)
+![image](https://github.com/user-attachments/assets/d6d13aff-42c3-4818-b638-65cc97753191)
 ![image](https://github.com/user-attachments/assets/648a575c-0c89-4f70-a513-f12dfbf0e21b)
 
 ## ✅ Results
@@ -111,7 +115,7 @@ The architecture includes:
 
 ## 📬 Contact
 
-For more information, contact **VInitha D**  
+For more information, contact **Vinitha D**  
 📧 Email: [vinithadanajeyan@gmail.com]
 
 ---
